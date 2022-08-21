@@ -1,24 +1,32 @@
-import logo from './logo.svg';
+// react
+import { useState } from 'react'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+
+//logo and style
+import logo from './images/mba-distilled-logo-sml.png'
 import './App.css';
+
+// index components
+import Header from './components/Header'
+import Footer from './components/Footer'
+// page components
+import Home from './components/Home'
+import VideoPage from './components/VideoPage'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Router>
+        <Header logo={logo} />
+        
+        <Routes>
+          <Route path='/' element={ <Home /> }/>
+          <Route path='/videos' element={ <VideoPage /> }/>
+        </Routes>
+
+        <Footer logo={logo} />
+      </Router>
+    </>
   );
 }
 
