@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.59a24b49.css",
-    "main.js": "/react-gh-pages/static/js/main.368dd2b5.js",
-    "static/media/vidthumb-trends.jpg": "/react-gh-pages/static/media/vidthumb-trends.5157a60b81d77e021a33.jpg",
-    "static/media/book.png": "/react-gh-pages/static/media/book.8c30ed08e8c569bb9f5f.png",
-    "static/media/vidthumb-aboutbook.jpg": "/react-gh-pages/static/media/vidthumb-aboutbook.14ad9d2963c3efd4114f.jpg",
-    "static/media/mbaback2.jpg": "/react-gh-pages/static/media/mbaback2.676f890c8587e1f86ec0.jpg",
-    "static/media/mba-distilled-logo-sml.png": "/react-gh-pages/static/media/mba-distilled-logo-sml.64390da9b5236668794d.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.59a24b49.css.map": "/react-gh-pages/static/css/main.59a24b49.css.map",
-    "main.368dd2b5.js.map": "/react-gh-pages/static/js/main.368dd2b5.js.map"
+    "main.css": "/mba-distilled/static/css/main.89070572.css",
+    "main.js": "/mba-distilled/static/js/main.347c71d3.js",
+    "static/media/vidthumb-trends.jpg": "/mba-distilled/static/media/vidthumb-trends.5157a60b81d77e021a33.jpg",
+    "static/media/book.png": "/mba-distilled/static/media/book.8c30ed08e8c569bb9f5f.png",
+    "static/media/vidthumb-aboutbook.jpg": "/mba-distilled/static/media/vidthumb-aboutbook.14ad9d2963c3efd4114f.jpg",
+    "static/media/mbaback2.jpg": "/mba-distilled/static/media/mbaback2.676f890c8587e1f86ec0.jpg",
+    "static/media/mba-distilled-logo-sml.png": "/mba-distilled/static/media/mba-distilled-logo-sml.64390da9b5236668794d.png",
+    "index.html": "/mba-distilled/index.html",
+    "main.89070572.css.map": "/mba-distilled/static/css/main.89070572.css.map",
+    "main.347c71d3.js.map": "/mba-distilled/static/js/main.347c71d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.59a24b49.css",
-    "static/js/main.368dd2b5.js"
+    "static/css/main.89070572.css",
+    "static/js/main.347c71d3.js"
   ]
 }
