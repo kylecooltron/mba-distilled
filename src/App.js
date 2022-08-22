@@ -17,11 +17,13 @@ function App() {
   return (
     <>
       <Router>
+        
         <Header logo={logo} />
         
         <Routes>
           <Route path='/' element={ <Home /> }/>
           <Route path='/mba-distilled' element={ <Home /> }/>
+          <Route path='/mba-distilled/videos' element={ <VideoPage /> }/>
           <Route path='/videos' element={ <VideoPage /> }/>
         </Routes>
 

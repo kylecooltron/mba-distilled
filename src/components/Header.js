@@ -1,4 +1,6 @@
 
+import { Link } from 'react-router-dom'
+
 import ContactBar from "./ContactBar"
 import Navigation from './Navigation'
 
@@ -11,7 +13,9 @@ const Header = ( { logo }) => {
       <header className="App-header">
         
         <div className="nav-bar"> 
-          <img src={logo} className="App-logo" alt="logo" />
+          <Link to="/mba-distilled">
+            <img src={logo} className="App-logo" alt="logo" />
+          </Link>
           <Navigation />
         </div>
     
