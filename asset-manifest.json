@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mba-distilled/static/css/main.89070572.css",
-    "main.js": "/mba-distilled/static/js/main.347c71d3.js",
+    "main.js": "/mba-distilled/static/js/main.0538937c.js",
     "static/media/vidthumb-trends.jpg": "/mba-distilled/static/media/vidthumb-trends.5157a60b81d77e021a33.jpg",
     "static/media/book.png": "/mba-distilled/static/media/book.8c30ed08e8c569bb9f5f.png",
     "static/media/vidthumb-aboutbook.jpg": "/mba-distilled/static/media/vidthumb-aboutbook.14ad9d2963c3efd4114f.jpg",
@@ -9,10 +9,10 @@
     "static/media/mba-distilled-logo-sml.png": "/mba-distilled/static/media/mba-distilled-logo-sml.64390da9b5236668794d.png",
     "index.html": "/mba-distilled/index.html",
     "main.89070572.css.map": "/mba-distilled/static/css/main.89070572.css.map",
-    "main.347c71d3.js.map": "/mba-distilled/static/js/main.347c71d3.js.map"
+    "main.0538937c.js.map": "/mba-distilled/static/js/main.0538937c.js.map"
   },
   "entrypoints": [
     "static/css/main.89070572.css",
-    "static/js/main.347c71d3.js"
+    "static/js/main.0538937c.js"
   ]
 }
