@@ -21,6 +21,7 @@ function App() {
         
         <Routes>
           <Route path='/' element={ <Home /> }/>
+          <Route path='/mba-distilled' element={ <Home /> }/>
           <Route path='/videos' element={ <VideoPage /> }/>
         </Routes>
 
